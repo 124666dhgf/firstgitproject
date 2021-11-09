@@ -1,0 +1,66 @@
+* {
+    box-sizing: border-box;
+  }
+  
+  html {
+    font-family: sans-serif;
+  }
+  
+  table {
+    width: 100%;
+    border: 1px solid black;
+    background-color:rgb(228, 99, 125);
+  }
+  
+  th,
+  td {
+    border: 1px solid black;
+    padding: 0.5rem;
+    
+  }
+  
+  th span {
+    margin-right: 1rem;
+  }
+  
+  input {
+    -webkit-appearance: none;
+    border: 1px solid gray;
+    padding: 0.5rem;
+    width: 100%;
+    max-width: 100%;
+    background: #f0f0f0;
+  }
+  
+  .pagination {
+    margin-top: 0.25rem;
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid black;
+    padding: 0.5rem;
+  }
+  form{
+    color:midnightblue;
+    width: 25%;
+    text-align: center;
+    margin: 3px auto;
+    box-sizing: border-box;
+    padding: 30p;
+    
+}
+  
+  .addbutton{
+    color:blanchedalmond;
+    background-color:purple;
+  }
+  .button{
+    color:blanchedalmond;
+    background-color:purple;
+  }
+  
+  .container{
+    text-align: center;
+    background-color:mistyrose;
+  }
+  
+  
